@@ -1,0 +1,5 @@
+[freeipa-prci]
+name=FreeIPA PR CI testing packages
+baseurl=http://freeipa-org-pr-ci.s3-website.eu-central-1.amazonaws.com/jobs/${S3_HASH}/rpms
+enabled=1
+gpgcheck=0

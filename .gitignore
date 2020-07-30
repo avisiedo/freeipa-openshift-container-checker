@@ -1,0 +1,14 @@
+# Ignore the generated repo file
+/freeipa-prci.repo
+
+# Ignore temporary directory for the cloned repository
+/repo
+
+# Ignore temporary logs directory
+/logs
+
+# Ignore S3 hash file
+/s3-hash.txt
+
+# Dockerfile copied from repo
+/Dockerfile
